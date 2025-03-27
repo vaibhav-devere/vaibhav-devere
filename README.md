@@ -11,10 +11,10 @@ I am a Java Backend Developer with 3+ years of experience in Spring Boot, Hibern
 💞️ I’m Looking to Collaborate On
 	•	Backend Development (Java, Spring Boot, Microservices)
 	•	Cloud & DevOps (AWS, Kubernetes, CI/CD)
-	•	Full-Stack Projects (React Native, Next.js, NestJS)
+	•	Full-Stack Projects (React, NestJS,Prisma,Typescript )
 
 📫 How to Reach Me
-	•	LinkedIn: https://www.linkedin.com/in/vaibhavdevere?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+	•	LinkedIn: https://www.linkedin.com/in/vaibhavdevere
 	•	GitHub: @vaibhav-devere
 
 <!---
