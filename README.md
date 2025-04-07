@@ -15,6 +15,7 @@ I am a Java Backend Developer with 3+ years of experience in Spring Boot, Hibern
 
 📫 How to Reach Me
 	•	LinkedIn: https://www.linkedin.com/in/vaibhavdevere
+    •   vaibhavdevere@gmail.com
 	•	GitHub: @vaibhav-devere
 
 <!---
